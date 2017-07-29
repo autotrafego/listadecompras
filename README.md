@@ -6,7 +6,7 @@ Esse app foi desenvolvido com o **Ionic 2**.
 
 No mini curso **GRATUITO** de como criar apps com **Ionic 2** eu ensino a criar esse app.
 
-**Para saber mais sobre o mini curso, acesse o link: https://fabricadecodigo.github.io/cursoionicgratis/**
+**Para saber mais sobre o mini curso, acesse o link: http://www.fabricadecodigo.com/minicursoionic/**
 
 
 
